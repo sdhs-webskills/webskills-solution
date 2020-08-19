@@ -13,6 +13,11 @@
     - [PHP](https://webskills.kr/2018/data/PHP_Web_Programming.pdf)
     - [webskills.kr](https://webskills.kr/)
 
+## 공통
+
+- B모듈
+  - [ ] [반응형 컴포넌트](./B_Module/0_반응형-컴포넌트/)
+
 ## 2020 전국
 
 ### 서울
@@ -22,7 +27,8 @@
   - [ ] [메인 슬라이드](./A_Module/서울-메인-슬라이드/)
   - [ ] [후원사 슬라이드](./A_Module/서울-후원사-슬라이드/)
 - B모듈
-  - [ ] 해시태그 모듈()
+  - [ ] [해시태그 모듈](./B_Module/해시태그/)
+  
 ### 대구
 
 ### 광주
